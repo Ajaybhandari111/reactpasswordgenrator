@@ -1,1 +1,1 @@
-# ReactPasswordGenrator
+# reactpasswordgenrator
